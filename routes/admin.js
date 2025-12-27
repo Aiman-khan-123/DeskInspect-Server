@@ -1,7 +1,7 @@
 // routes/admin.js - UPDATED STUDENT PROGRESS QUERY
 import express from "express";
 import User from "../models/User.js";
-import Thesis from "../models/Thesis.js";
+import Thesis from "../models/thesis.js";
 import Report from "../models/Report.js";
 
 const router = express.Router();

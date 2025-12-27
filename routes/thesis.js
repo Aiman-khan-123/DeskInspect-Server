@@ -1,6 +1,6 @@
 // routes/thesis.js
 import express from "express";
-import Thesis from "../models/Thesis.js";
+import Thesis from "../models/thesis.js";
 import {
   uploadThesis,
   getAllThesis,
