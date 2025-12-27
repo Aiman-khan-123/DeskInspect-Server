@@ -1,4 +1,4 @@
-import Thesis from "../models/Thesis.js";
+import Thesis from "../models/thesis.js";
 import User from "../models/User.js";
 
 // uploadThesis
